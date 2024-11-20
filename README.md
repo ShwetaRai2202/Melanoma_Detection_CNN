@@ -15,15 +15,23 @@ The dataset, derived from the International Skin Imaging Collaboration (ISIC), c
 
 The dataset includes the following categories:
 
-Actinic keratosis
-Basal cell carcinoma
-Dermatofibroma
-Melanoma
-Nevus
-Pigmented benign keratosis
-Seborrheic keratosis
-Squamous cell carcinoma
-Vascular lesion
+1)Actinic keratosis
+
+2)Basal cell carcinoma
+
+3)Dermatofibroma
+
+4)Melanoma
+
+5)Nevus
+
+6)Pigmented benign keratosis
+
+7)Seborrheic keratosis
+
+8)Squamous cell carcinoma
+
+9)Vascular lesion
 
 Approach
 1. Understanding the Problem & Data
