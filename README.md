@@ -53,7 +53,7 @@ Key Findings
 Overfitting and underfitting issues were effectively addressed using data augmentation and class rebalancing.
 The final model (third iteration) achieved:
 97% accuracy on the training dataset
-82% accuracy on the validation dataset
+82% accuracy on the validation dataset in 50 epoc
 The narrow gap between training and validation performance highlights the model's strong generalization ability.
 Technologies Utilized
 Deep Learning Frameworks: TensorFlow, Keras
